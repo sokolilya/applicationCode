@@ -1,0 +1,492 @@
+
+/* Class = "UILabel"; text = "33990 руб."; ObjectID = "0r5-fZ-pv5"; */
+"0r5-fZ-pv5.text" = "33990 rub";
+
+/* Class = "UIButton"; normalTitle = "Провести конкурс"; ObjectID = "15f-B1-Ebu"; */
+"15f-B1-Ebu.normalTitle" = "Make a contest";
+
+/* Class = "UILabel"; text = "Действия"; ObjectID = "1C4-WU-MBt"; */
+"1C4-WU-MBt.text" = "Actions";
+
+/* Class = "UILabel"; text = "Переход на вкладку работа. Здесь вы можете получить деньги и мастерство."; ObjectID = "1ii-UH-3gm"; */
+"1ii-UH-3gm.text" = "Go to work. Here you can get money and master points.";
+
+/* Class = "UIButton"; normalTitle = "Ночевать на вокзале"; ObjectID = "25m-jc-bVm"; */
+"25m-jc-bVm.normalTitle" = "Sleep on railway";
+
+/* Class = "UILabel"; text = "192990 руб."; ObjectID = "29U-Gt-lue"; */
+"29U-Gt-lue.text" = "192990 rub";
+
+/* Class = "UIButton"; normalTitle = "Купить б/у машину"; ObjectID = "3P5-Nb-46o"; */
+"3P5-Nb-46o.normalTitle" = "Buy re-owned car";
+
+/* Class = "UILabel"; text = "379,00 ₽"; ObjectID = "48E-x1-PC2"; */
+"48E-x1-PC2.text" = "379,00 ₽";
+
+/* Class = "UILabel"; text = "Не имеет"; ObjectID = "4X7-eS-TnQ"; */
+"4X7-eS-TnQ.text" = "Doesn't have";
+
+/* Class = "UILabel"; text = "7000 руб."; ObjectID = "4ZI-TA-VKy"; */
+"4ZI-TA-VKy.text" = "7000 rub";
+
+/* Class = "UITextField"; placeholder = "Рубли"; ObjectID = "4kF-KB-5vQ"; */
+"4kF-KB-5vQ.placeholder" = "Rubles";
+
+/* Class = "UIButton"; normalTitle = "Мойщик посуды"; ObjectID = "4wR-jT-s3U"; */
+"4wR-jT-s3U.normalTitle" = "Dish washer";
+
+/* Class = "UIButton"; normalTitle = "Бутерброды из магазина (+15)"; ObjectID = "5NB-Fu-ocj"; */
+"5NB-Fu-ocj.normalTitle" = "Sandwiches from shop (+15)";
+
+/* Class = "UILabel"; text = "3000 $"; ObjectID = "5PL-Z7-m03"; */
+"5PL-Z7-m03.text" = "3000 $";
+
+/* Class = "UILabel"; text = "Приобрести доллары"; ObjectID = "5Xq-cn-Emf"; */
+"5Xq-cn-Emf.text" = "Buy dollars";
+
+/* Class = "UILabel"; text = "500000 $"; ObjectID = "5Ze-pI-Lxc"; */
+"5Ze-pI-Lxc.text" = "500000 $";
+
+/* Class = "UILabel"; text = "500000 $"; ObjectID = "5j9-nn-qgp"; */
+"5j9-nn-qgp.text" = "500000 $";
+
+/* Class = "UIButton"; normalTitle = "Реклама у блоггера"; ObjectID = "5jD-Nq-RA9"; */
+"5jD-Nq-RA9.normalTitle" = "Ad from blogger";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "5oc-Ix-FeV"; */
+"5oc-Ix-FeV.text" = "$";
+
+/* Class = "UILabel"; text = "Бесплатно"; ObjectID = "6C0-yE-BgI"; */
+"6C0-yE-BgI.text" = "Free";
+
+/* Class = "UILabel"; text = "Приобрести транспорт"; ObjectID = "6Lc-vl-V3b"; */
+"6Lc-vl-V3b.text" = "Buy transport";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "6Re-2q-os1"; */
+"6Re-2q-os1.text" = "1000";
+
+/* Class = "UILabel"; text = "55000 руб."; ObjectID = "6Sr-xK-xqp"; */
+"6Sr-xK-xqp.text" = "55000 rub";
+
+/* Class = "UIButton"; normalTitle = "Снять квартиру"; ObjectID = "6h1-eg-kWT"; */
+"6h1-eg-kWT.normalTitle" = "Rent a flat";
+
+/* Class = "UILabel"; text = "Переход на вкладку банк. Здесь вы можете обменять виртуальную валюту."; ObjectID = "7Ld-ti-Vu1"; */
+"7Ld-ti-Vu1.text" = "Go to the bank. Here you can change currency.";
+
+/* Class = "UILabel"; text = "Обмен валюты:"; ObjectID = "7Yk-dL-s0d"; */
+"7Yk-dL-s0d.text" = "Currency change:";
+
+/* Class = "UILabel"; text = "10000 $"; ObjectID = "7iN-SH-VtK"; */
+"7iN-SH-VtK.text" = "10000 $";
+
+/* Class = "UILabel"; text = "Деньги"; ObjectID = "8AT-R9-UGf"; */
+"8AT-R9-UGf.text" = "Money";
+
+/* Class = "UILabel"; text = "руб."; ObjectID = "9ez-Bh-3eI"; */
+"9ez-Bh-3eI.text" = "rub";
+
+/* Class = "UILabel"; text = "1347 руб."; ObjectID = "9kO-cD-YuU"; */
+"9kO-cD-YuU.text" = "1347 rub";
+
+/* Class = "UIButton"; normalTitle = "Купить 100000 $"; ObjectID = "9oQ-FL-7KP"; */
+"9oQ-FL-7KP.normalTitle" = "Buy 100000 $";
+
+/* Class = "UILabel"; text = "Итого:"; ObjectID = "9w4-da-aPh"; */
+"9w4-da-aPh.text" = "Total:";
+
+/* Class = "UILabel"; text = "100000 $"; ObjectID = "ASD-F0-pzM"; */
+"ASD-F0-pzM.text" = "100000 $";
+
+/* Class = "UILabel"; text = "96990 руб."; ObjectID = "Aqx-Yx-WVh"; */
+"Aqx-Yx-WVh.text" = "96990 rub";
+
+/* Class = "UITextField"; placeholder = "Доллары"; ObjectID = "BN9-W0-E82"; */
+"BN9-W0-E82.placeholder" = "Dollars";
+
+/* Class = "UIButton"; normalTitle = "Консоль"; ObjectID = "Boa-ry-oZX"; */
+"Boa-ry-oZX.normalTitle" = "Console";
+
+/* Class = "UILabel"; text = "Переход на вкладку профиль. Здесь хранится основная информация."; ObjectID = "Ch4-HL-C1U"; */
+"Ch4-HL-C1U.text" = "Go to profile. That's main information here.";
+
+/* Class = "UILabel"; text = "Переход на вкладку развлечений. Здесь вы можете получить популярность, деньги и мастерство."; ObjectID = "D4y-Fk-HbY"; */
+"D4y-Fk-HbY.text" = "Go to entertainment. Here you can get popularity, money and master points.";
+
+/* Class = "UILabel"; text = "Не имеет"; ObjectID = "Dtc-Nj-Qc8"; */
+"Dtc-Nj-Qc8.text" = "Doesn't have";
+
+/* Class = "UILabel"; text = "114 руб."; ObjectID = "EPS-JP-PZm"; */
+"EPS-JP-PZm.text" = "114 rub";
+
+/* Class = "UILabel"; text = "229,00 ₽"; ObjectID = "EU9-Lb-zIj"; */
+"EU9-Lb-zIj.text" = "229,00 ₽";
+
+/* Class = "UIButton"; normalTitle = "Снять комнату в общаге"; ObjectID = "FMb-45-Tfn"; */
+"FMb-45-Tfn.normalTitle" = "Rent a room";
+
+/* Class = "UIButton"; normalTitle = "Консультант в магазине"; ObjectID = "FN8-Tw-uDq"; */
+"FN8-Tw-uDq.normalTitle" = "Shop assistent";
+
+/* Class = "UIButton"; normalTitle = "Дешевый ноутбук"; ObjectID = "FtZ-Cg-Jrr"; */
+"FtZ-Cg-Jrr.normalTitle" = "Cheep notebook";
+
+/* Class = "UILabel"; text = "0 $"; ObjectID = "GUg-Wg-GVh"; */
+"GUg-Wg-GVh.text" = "0 $";
+
+/* Class = "UIButton"; normalTitle = "Купить игровые карточки"; ObjectID = "GYW-Jc-Xvs"; */
+"GYW-Jc-Xvs.normalTitle" = "Buy game cards";
+
+/* Class = "UILabel"; text = "9990 руб."; ObjectID = "HDJ-13-Zvs"; */
+"HDJ-13-Zvs.text" = "9990 rub";
+
+/* Class = "UILabel"; text = "Бесплатно"; ObjectID = "HvB-Ax-g3z"; */
+"HvB-Ax-g3z.text" = "Free";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "IuT-D6-4fX"; */
+"IuT-D6-4fX.text" = "100";
+
+/* Class = "UIButton"; normalTitle = "Постримить игру"; ObjectID = "J1O-b5-lJJ"; */
+"J1O-b5-lJJ.normalTitle" = "Stream the game";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "JCk-oA-bnE"; */
+"JCk-oA-bnE.text" = "0";
+
+/* Class = "UILabel"; text = "Бесплатно"; ObjectID = "JQv-vK-QAR"; */
+"JQv-vK-QAR.text" = "Free";
+
+/* Class = "UIButton"; normalTitle = "Купить игру"; ObjectID = "Jlt-55-qDl"; */
+"Jlt-55-qDl.normalTitle" = "Buy game";
+
+/* Class = "UILabel"; text = "5175 руб."; ObjectID = "Jve-6f-hxx"; */
+"Jve-6f-hxx.text" = "5175 rub";
+
+/* Class = "UIButton"; normalTitle = "Сходить в кафе (+34)"; ObjectID = "K0J-EO-lPK"; */
+"K0J-EO-lPK.normalTitle" = "Go to cafe (+34)";
+
+/* Class = "UIButton"; normalTitle = "Продукты"; ObjectID = "KAC-ZV-3Sc"; */
+"KAC-ZV-3Sc.normalTitle" = "Products";
+
+/* Class = "UILabel"; text = "13000 руб."; ObjectID = "KS5-5p-e9W"; */
+"KS5-5p-e9W.text" = "13000 rub";
+
+/* Class = "UILabel"; text = "Помощь"; ObjectID = "KWD-cT-8XL"; */
+"KWD-cT-8XL.text" = "Help";
+
+/* Class = "UIButton"; normalTitle = "Купить 5000 $"; ObjectID = "KoP-gP-IF5"; */
+"KoP-gP-IF5.normalTitle" = "Buy 5000 $";
+
+/* Class = "UIButton"; normalTitle = "Купить премиум авто"; ObjectID = "KxP-HN-sVF"; */
+"KxP-HN-sVF.normalTitle" = "Buy premium auto";
+
+/* Class = "UILabel"; text = "650000 руб."; ObjectID = "Kz9-WN-BHO"; */
+"Kz9-WN-BHO.text" = "650000 rub";
+
+/* Class = "UILabel"; text = "Курс обмена – 65 рублей за 1$"; ObjectID = "LDq-ZP-fSC"; */
+"LDq-ZP-fSC.text" = "Exchange rate – 65 rub for 1$";
+
+/* Class = "UILabel"; text = "35000 руб."; ObjectID = "M0A-N8-Lrm"; */
+"M0A-N8-Lrm.text" = "35000 rub";
+
+/* Class = "UILabel"; text = "267 руб."; ObjectID = "MIh-pI-P5O"; */
+"MIh-pI-P5O.text" = "267 rub.";
+
+/* Class = "UILabel"; text = "Приобрести продукты"; ObjectID = "MPt-aS-5WB"; */
+"MPt-aS-5WB.text" = "Buy products";
+
+/* Class = "UILabel"; text = "0 руб."; ObjectID = "Mwo-IZ-Oja"; */
+"Mwo-IZ-Oja.text" = "0 rub";
+
+/* Class = "UILabel"; text = "Популярность:"; ObjectID = "N7v-MC-Ocu"; */
+"N7v-MC-Ocu.text" = "Popularity:";
+
+/* Class = "UILabel"; text = "Не трудоустроен"; ObjectID = "NAA-Gm-b8J"; */
+"NAA-Gm-b8J.text" = "Не трудоустроен";
+
+/* Class = "UIButton"; normalTitle = "Купить машину"; ObjectID = "NPI-SS-VJ2"; */
+"NPI-SS-VJ2.normalTitle" = "Купить машину";
+
+/* Class = "UILabel"; text = "Переход на вкладку магазин. Здесь вы можете приобрести еду, а также технику, недвижимость и транспорт."; ObjectID = "NXq-tt-KOa"; */
+"NXq-tt-KOa.text" = "Переход на вкладку магазин. Здесь вы можете приобрести еду, а также технику, недвижимость и транспорт.";
+
+/* Class = "UIButton"; normalTitle = "Разработчик игр"; ObjectID = "NqW-vr-FKM"; */
+"NqW-vr-FKM.normalTitle" = "Разработчик игр";
+
+/* Class = "UILabel"; text = "593 руб."; ObjectID = "Nvw-cv-4Wj"; */
+"Nvw-cv-4Wj.text" = "593 руб.";
+
+/* Class = "UILabel"; text = "150000 $"; ObjectID = "O6p-be-l7d"; */
+"O6p-be-l7d.text" = "150000 $";
+
+/* Class = "UIButton"; normalTitle = "Транспорт"; ObjectID = "OhC-8l-6Fp"; */
+"OhC-8l-6Fp.normalTitle" = "Транспорт";
+
+/* Class = "UIButton"; normalTitle = "Обзор игры"; ObjectID = "Ojh-Lf-IjX"; */
+"Ojh-Lf-IjX.normalTitle" = "Обзор игры";
+
+/* Class = "UIButton"; normalTitle = "ПК на i7"; ObjectID = "OmL-p8-Im4"; */
+"OmL-p8-Im4.normalTitle" = "ПК на i7";
+
+/* Class = "UIButton"; normalTitle = "Доллары"; ObjectID = "OyE-mB-Wc9"; */
+"OyE-mB-Wc9.normalTitle" = "Доллары";
+
+/* Class = "UILabel"; text = "1500 руб."; ObjectID = "Pi9-Zc-WmZ"; */
+"Pi9-Zc-WmZ.text" = "1500 руб.";
+
+/* Class = "UIButton"; normalTitle = "Купить 50000 $"; ObjectID = "PqK-mq-ySG"; */
+"PqK-mq-ySG.normalTitle" = "Купить 50000 $";
+
+/* Class = "UIButton"; normalTitle = "Купить квартиру"; ObjectID = "Prg-jf-gou"; */
+"Prg-jf-gou.normalTitle" = "Купить квартиру";
+
+/* Class = "UILabel"; text = "Имущество"; ObjectID = "Q99-rf-82H"; */
+"Q99-rf-82H.text" = "Имущество";
+
+/* Class = "UIButton"; normalTitle = "Играть в игру"; ObjectID = "Qec-ia-sN5"; */
+"Qec-ia-sN5.normalTitle" = "Играть в игру";
+
+/* Class = "UIButton"; normalTitle = "Купить вертолет"; ObjectID = "Qsv-a2-hXS"; */
+"Qsv-a2-hXS.normalTitle" = "Купить вертолет";
+
+/* Class = "UILabel"; text = "1893 руб."; ObjectID = "Qx1-UI-g3h"; */
+"Qx1-UI-g3h.text" = "1893 руб.";
+
+/* Class = "UILabel"; text = "100000 $"; ObjectID = "R1f-55-alD"; */
+"R1f-55-alD.text" = "100000 $";
+
+/* Class = "UIButton"; normalTitle = "Младший разработчик"; ObjectID = "Rsh-9o-rma"; */
+"Rsh-9o-rma.normalTitle" = "Младший разработчик";
+
+/* Class = "UILabel"; text = "903 руб."; ObjectID = "SKz-qb-nx7"; */
+"SKz-qb-nx7.text" = "903 руб.";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "SbG-W4-t9d"; */
+"SbG-W4-t9d.text" = "100";
+
+/* Class = "UILabel"; text = "459,00 ₽"; ObjectID = "Sfj-zs-QX0"; */
+"Sfj-zs-QX0.text" = "459,00 ₽";
+
+/* Class = "UILabel"; text = "Рубли:"; ObjectID = "So0-Vw-Qd9"; */
+"So0-Vw-Qd9.text" = "Рубли:";
+
+/* Class = "UILabel"; text = "Бесплатно"; ObjectID = "Ss3-Rm-0op"; */
+"Ss3-Rm-0op.text" = "Бесплатно";
+
+/* Class = "UILabel"; text = "75,00 ₽"; ObjectID = "Swr-Ae-jBZ"; */
+"Swr-Ae-jBZ.text" = "75,00 ₽";
+
+/* Class = "UILabel"; text = "150000 руб."; ObjectID = "TJj-ww-6rD"; */
+"TJj-ww-6rD.text" = "150000 руб.";
+
+/* Class = "UILabel"; text = "1817 руб."; ObjectID = "TL8-ht-lhl"; */
+"TL8-ht-lhl.text" = "1817 руб.";
+
+/* Class = "UIButton"; normalTitle = "ПК на i9"; ObjectID = "TMi-XA-923"; */
+"TMi-XA-923.normalTitle" = "ПК на i9";
+
+/* Class = "UILabel"; text = "Транспорт:"; ObjectID = "TVb-Bq-QKv"; */
+"TVb-Bq-QKv.text" = "Транспорт:";
+
+/* Class = "UILabel"; text = "25000 руб."; ObjectID = "UVg-bL-Dni"; */
+"UVg-bL-Dni.text" = "25000 руб.";
+
+/* Class = "UIButton"; normalTitle = "ПК на i5"; ObjectID = "Ul6-h3-dqf"; */
+"Ul6-h3-dqf.normalTitle" = "ПК на i5";
+
+/* Class = "UIButton"; normalTitle = "Почтальон"; ObjectID = "Uuu-7p-RJ9"; */
+"Uuu-7p-RJ9.normalTitle" = "Почтальон";
+
+/* Class = "UIButton"; normalTitle = "Принять участие в турнире"; ObjectID = "UyO-ip-uZc"; */
+"UyO-ip-uZc.normalTitle" = "Принять участие в турнире";
+
+/* Class = "UIButton"; normalTitle = "Помощь"; ObjectID = "VMl-Oe-5GB"; */
+"VMl-Oe-5GB.normalTitle" = "Помощь";
+
+/* Class = "UIButton"; normalTitle = "Обменять"; ObjectID = "VwA-Jn-G7b"; */
+"VwA-Jn-G7b.normalTitle" = "Обменять";
+
+/* Class = "UILabel"; text = "Бесплатно"; ObjectID = "Vwu-a3-Vs5"; */
+"Vwu-a3-Vs5.text" = "Бесплатно";
+
+/* Class = "UILabel"; text = "Доллары:"; ObjectID = "WTz-lK-cYB"; */
+"WTz-lK-cYB.text" = "Доллары:";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "WVg-De-38W"; */
+"WVg-De-38W.text" = "100";
+
+/* Class = "UIButton"; normalTitle = "Посетить турнир"; ObjectID = "WvN-iJ-l1Y"; */
+"WvN-iJ-l1Y.normalTitle" = "Посетить турнир";
+
+/* Class = "UIButton"; normalTitle = "Купить 1000 $"; ObjectID = "X22-ba-vUp"; */
+"X22-ba-vUp.normalTitle" = "Купить 1000 $";
+
+/* Class = "UIButton"; normalTitle = "Купить 250000 $"; ObjectID = "XYd-5b-Ieb"; */
+"XYd-5b-Ieb.normalTitle" = "Купить 250000 $";
+
+/* Class = "UIButton"; normalTitle = "Обменять"; ObjectID = "YwA-8Y-UpW"; */
+"YwA-8Y-UpW.normalTitle" = "Обменять";
+
+/* Class = "UIButton"; normalTitle = "Купить пентхаус"; ObjectID = "Yyt-j1-oOl"; */
+"Yyt-j1-oOl.normalTitle" = "Купить пентхаус";
+
+/* Class = "UIButton"; normalTitle = "Нанять повара"; ObjectID = "ZGE-WU-DXG"; */
+"ZGE-WU-DXG.normalTitle" = "Нанять повара";
+
+/* Class = "UILabel"; text = "Приобрести недвижимость"; ObjectID = "Zh9-Cz-Nes"; */
+"Zh9-Cz-Nes.text" = "Приобрести недвижимость";
+
+/* Class = "UILabel"; text = "237 руб."; ObjectID = "Zhe-Ty-ZU0"; */
+"Zhe-Ty-ZU0.text" = "237 руб.";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Zkl-Jt-H1B"; */
+"Zkl-Jt-H1B.text" = "0";
+
+/* Class = "UILabel"; text = "120 руб."; ObjectID = "aBF-yP-4QJ"; */
+"aBF-yP-4QJ.text" = "120 руб.";
+
+/* Class = "UILabel"; text = "500 руб."; ObjectID = "aVA-pj-2d4"; */
+"aVA-pj-2d4.text" = "500 руб.";
+
+/* Class = "UILabel"; text = "2000 руб."; ObjectID = "aqy-3X-lZw"; */
+"aqy-3X-lZw.text" = "2000 руб.";
+
+/* Class = "UIButton"; normalTitle = "Баннер в интернете"; ObjectID = "b6I-NE-t4t"; */
+"b6I-NE-t4t.normalTitle" = "Баннер в интернете";
+
+/* Class = "UIButton"; normalTitle = "Мойщик машин"; ObjectID = "bGR-T0-vhC"; */
+"bGR-T0-vhC.normalTitle" = "Мойщик машин";
+
+/* Class = "UIButton"; normalTitle = "ПК на i3"; ObjectID = "bRt-p4-DV6"; */
+"bRt-p4-DV6.normalTitle" = "ПК на i3";
+
+/* Class = "UIButton"; normalTitle = "Купить велосипед"; ObjectID = "bV8-nP-JNE"; */
+"bV8-nP-JNE.normalTitle" = "Купить велосипед";
+
+/* Class = "UILabel"; text = "54990 руб."; ObjectID = "d6W-6A-NNb"; */
+"d6W-6A-NNb.text" = "54990 руб.";
+
+/* Class = "UILabel"; text = "3658 руб."; ObjectID = "eIe-5m-Hwi"; */
+"eIe-5m-Hwi.text" = "3658 руб.";
+
+/* Class = "UILabel"; text = "149,00 ₽"; ObjectID = "ePX-Mm-rFL"; */
+"ePX-Mm-rFL.text" = "149,00 ₽";
+
+/* Class = "UIButton"; normalTitle = "Сохранить"; ObjectID = "fOP-qh-oz4"; */
+"fOP-qh-oz4.normalTitle" = "Сохранить";
+
+/* Class = "UILabel"; text = "299,00 ₽"; ObjectID = "fhC-yS-voH"; */
+"fhC-yS-voH.text" = "299,00 ₽";
+
+/* Class = "UILabel"; text = "Указывает на кол-во очков еды."; ObjectID = "g4P-Mg-pLR"; */
+"g4P-Mg-pLR.text" = "Указывает на кол-во очков еды.";
+
+/* Class = "UILabel"; text = "25990 руб."; ObjectID = "gBH-NC-Cce"; */
+"gBH-NC-Cce.text" = "25990 руб.";
+
+/* Class = "UILabel"; text = "Приобрести технику"; ObjectID = "ghI-DS-tdF"; */
+"ghI-DS-tdF.text" = "Приобрести технику";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "hEo-fu-qCQ"; */
+"hEo-fu-qCQ.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Техника"; ObjectID = "hKd-0P-Ce4"; */
+"hKd-0P-Ce4.normalTitle" = "Техника";
+
+/* Class = "UILabel"; text = "Должность:"; ObjectID = "hYF-SK-aIr"; */
+"hYF-SK-aIr.text" = "Должность:";
+
+/* Class = "UILabel"; text = "Статус"; ObjectID = "hnL-DP-TRL"; */
+"hnL-DP-TRL.text" = "Статус";
+
+/* Class = "UILabel"; text = "15000 $"; ObjectID = "hxN-ys-rNn"; */
+"hxN-ys-rNn.text" = "15000 $";
+
+/* Class = "UILabel"; text = "5000 руб."; ObjectID = "ioZ-jX-5Jn"; */
+"ioZ-jX-5Jn.text" = "5000 руб.";
+
+/* Class = "UIButton"; normalTitle = "Недвижимость"; ObjectID = "jtB-jR-Daz"; */
+"jtB-jR-Daz.normalTitle" = "Недвижимость";
+
+/* Class = "UIButton"; normalTitle = "Посетить ресторан (+50)"; ObjectID = "kAP-rC-wc0"; */
+"kAP-rC-wc0.normalTitle" = "Посетить ресторан (+50)";
+
+/* Class = "UILabel"; text = "Мастерство:"; ObjectID = "kTZ-zQ-0e1"; */
+"kTZ-zQ-0e1.text" = "Мастерство:";
+
+/* Class = "UIButton"; normalTitle = "Системный администратор"; ObjectID = "kcH-RP-52N"; */
+"kcH-RP-52N.normalTitle" = "Системный администратор";
+
+/* Class = "UILabel"; text = "24990 руб."; ObjectID = "l08-LP-hLT"; */
+"l08-LP-hLT.text" = "24990 руб.";
+
+/* Class = "UIButton"; normalTitle = "Утолитель голода 3000"; ObjectID = "lIf-kA-hyL"; */
+"lIf-kA-hyL.normalTitle" = "Утолитель голода 3000";
+
+/* Class = "UIButton"; normalTitle = "Записать летсплей"; ObjectID = "lWX-l2-NWo"; */
+"lWX-l2-NWo.normalTitle" = "Записать летсплей";
+
+/* Class = "UILabel"; text = "25000 $"; ObjectID = "lX3-yp-BR0"; */
+"lX3-yp-BR0.text" = "25000 $";
+
+/* Class = "UIButton"; normalTitle = "Охранник"; ObjectID = "luI-NB-87c"; */
+"luI-NB-87c.normalTitle" = "Охранник";
+
+/* Class = "UIButton"; normalTitle = "Купить 500000 $"; ObjectID = "m6x-99-uld"; */
+"m6x-99-uld.normalTitle" = "Купить 500000 $";
+
+/* Class = "UILabel"; text = "Вид работы"; ObjectID = "m7o-MC-ODu"; */
+"m7o-MC-ODu.text" = "Вид работы";
+
+/* Class = "UILabel"; text = "Итого:"; ObjectID = "mCb-UM-87R"; */
+"mCb-UM-87R.text" = "Итого:";
+
+/* Class = "UIButton"; normalTitle = "Купить электросамокат"; ObjectID = "mUP-1g-nSz"; */
+"mUP-1g-nSz.normalTitle" = "Купить электросамокат";
+
+/* Class = "UIButton"; normalTitle = "Купить 15000 $"; ObjectID = "n1D-fg-Ph9"; */
+"n1D-fg-Ph9.normalTitle" = "Купить 15000 $";
+
+/* Class = "UILabel"; text = "Указывает на кол-во очков радости."; ObjectID = "rAI-GE-eb4"; */
+"rAI-GE-eb4.text" = "Указывает на кол-во очков радости.";
+
+/* Class = "UIButton"; normalTitle = "4К монитор"; ObjectID = "rX2-BK-15A"; */
+"rX2-BK-15A.normalTitle" = "4К монитор";
+
+/* Class = "UILabel"; text = "75 руб."; ObjectID = "sDw-iZ-JgE"; */
+"sDw-iZ-JgE.text" = "75 руб.";
+
+/* Class = "UILabel"; text = "Указывает на кол-во очков сна. Чтобы получить очки сна нажмите на данную кнопку."; ObjectID = "sIR-HD-EOO"; */
+"sIR-HD-EOO.text" = "Указывает на кол-во очков сна. Чтобы получить очки сна нажмите на данную кнопку.";
+
+/* Class = "UILabel"; text = "536 руб."; ObjectID = "t5A-Ig-qLb"; */
+"t5A-Ig-qLb.text" = "536 руб.";
+
+/* Class = "UIButton"; normalTitle = "Шаурма на вокзале (+21)"; ObjectID = "tVK-RS-3s2"; */
+"tVK-RS-3s2.normalTitle" = "Шаурма на вокзале (+21)";
+
+/* Class = "UIButton"; normalTitle = "Купить скутер"; ObjectID = "tZW-Gt-5JK"; */
+"tZW-Gt-5JK.normalTitle" = "Купить скутер";
+
+/* Class = "UILabel"; text = "17990 руб."; ObjectID = "uTI-ql-cLh"; */
+"uTI-ql-cLh.text" = "17990 руб.";
+
+/* Class = "UIButton"; normalTitle = "Купить виллу"; ObjectID = "veN-JZ-bdA"; */
+"veN-JZ-bdA.normalTitle" = "Купить виллу";
+
+/* Class = "UILabel"; text = "Реклама"; ObjectID = "vkg-Mj-ydQ"; */
+"vkg-Mj-ydQ.text" = "Реклама";
+
+/* Class = "UILabel"; text = "2,3 млн. руб."; ObjectID = "wek-R0-sj5"; */
+"wek-R0-sj5.text" = "2,3 млн. руб.";
+
+/* Class = "UIButton"; normalTitle = "Забрести в пельменную (+27)"; ObjectID = "xEv-kx-iQO"; */
+"xEv-kx-iQO.normalTitle" = "Забрести в пельменную (+27)";
+
+/* Class = "UILabel"; text = "29,00 ₽"; ObjectID = "ym7-SI-6Rf"; */
+"ym7-SI-6Rf.text" = "29,00 ₽";
+
+/* Class = "UIButton"; normalTitle = "Реклама в соц. сетях"; ObjectID = "zLg-Q1-htQ"; */
+"zLg-Q1-htQ.normalTitle" = "Реклама в соц. сетях";
+
+/* Class = "UILabel"; text = "Недвижимость:"; ObjectID = "zzB-tN-6k3"; */
+"zzB-tN-6k3.text" = "Недвижимость:";
